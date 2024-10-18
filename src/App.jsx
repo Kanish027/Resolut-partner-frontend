@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import PostDetails from "./pages/postDetails";
+import PostDetails from "./pages/PostDetails";
 import { Toaster } from "react-hot-toast";
 
 function App() {
